@@ -10,7 +10,7 @@ This repo contains a mini calendar web app🧮
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://ayinbot-simple-Calendar.netlify.app)
+- Live Site URL: [Live site URL here](https://ayinbota-mini-calendar.netlify.app)
 
 ### Built with
 
